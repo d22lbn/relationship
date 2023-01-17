@@ -36,11 +36,10 @@ body {
 
 .header_title {
     font-family: 'Inter', serif;
-    line-height: 100%;
+    line-height: normal;
     color: #353535;
     display: flex;
     flex-direction: column;
-
 }
 
 .header_title h1 {
@@ -51,7 +50,7 @@ body {
 .header_title span {
     font-weight: 400;
     font-size: 17px;
-    margin-top: 30px;
+    margin-top: 5px;
 }
 
 .header_ava {
